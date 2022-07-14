@@ -1,0 +1,19 @@
+{
+    "name": "ritesh/department",
+    "description": "Custom role and permission featured",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "riteshInvoidea",
+            "email": "94535025+riteshInvoidea@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Department\\": "Modules/Department/src/"
+        }
+    },
+    "require": {}
+}

@@ -1,0 +1,19 @@
+{
+    "name": "ritesh/ecommerce",
+    "description": "category product system",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "riteshInvoidea",
+            "email": "94535025+riteshInvoidea@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Ecommerce\\": "Modules/Ecommerce/src/"
+        }
+    },
+    "require": {}
+}
